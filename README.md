@@ -23,7 +23,7 @@ This is an MVP Streamlit app that converts a 2D video clip into a stereoscopic V
    ```
 3. Run the Streamlit app:
    ```bash
-   streamlit run streamlit_app.py
+   streamlit run app.py
    ```
 4. Upload a 2D clip (MP4) and click **Convert**.
 5. Download the resulting side-by-side VR-180 MP4 file when processing completes.
