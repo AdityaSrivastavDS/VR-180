@@ -9,7 +9,7 @@ This is an MVP Streamlit app that converts a 2D video clip into a stereoscopic V
 - For large videos, reduce resolution and/or frame rate to speed up processing (there are settings in the UI).
 
 ## What is included
-- `streamlit_app.py` - Main Streamlit interface.
+- `app.py` - Main Streamlit interface.
 - `depth_processing.py` - Video frame extraction, depth estimation, stereo synthesis, and video writing.
 - `requirements.txt` - Python dependencies.
 - `scripts/` - helper script examples (if needed).
