@@ -1,0 +1,11 @@
+
+streamlit
+torch
+torchvision
+opencv-python
+tqdm
+ffmpeg-python
+numpy
+Pillow
+scipy
+torchinfo
